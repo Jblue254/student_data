@@ -1,5 +1,5 @@
-STUDENT DATA COLLECTION
-Personal Dashboard Application
+# STUDENT DATA COLLECTION
+## Personal Dashboard Application
 A simple web-based dashboard application that generates personalized information based on a user's name and age. The application provides age calculations, user status classification, motivational reminders, and a daily inspirational quote.Future additions will include generating motivational quotes based on the days and ability to read the worlds ongoing events
 Table of Contents
 About the Project
