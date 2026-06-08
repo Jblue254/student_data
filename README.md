@@ -5,7 +5,6 @@
 The **Personal Dashboard Application** is a simple web-based application that generates personalized information based on a user's name and age.
 
 The application provides:
-
 - Personalized greetings
 - Age calculations
 - User status classification
@@ -33,15 +32,10 @@ Future enhancements will include generating motivational messages based on the d
 ### Installation
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/jblue254/calorie_counter.git
 2. Navigate to the project directory:
-
-```bash
 cd calorie_counter
 3. Open the project in your preferred code editor.
-
 4. Launch `index.html` in your browser.
 ## Usage
 
@@ -52,16 +46,15 @@ cd calorie_counter
 
 ### Example Output
 
-```text
 Hello, JAPHETH KIPRONO!
 Your age in months: 300
 Status: Adult
 Reminder 1: Keep going!
 Reminder 2: Stay focused!
 Reminder 3: Believe in yourself!
-```
+
 ## Project Structure
-```text
+
 personal-dashboard/
 │
 ├── index.html
@@ -94,4 +87,3 @@ Software Developer
 GitHub: https://github.com/jblue254
 Email: japhethkiprono2020@gmail.com
 
-> *"The best way to predict the future is to create it."*
